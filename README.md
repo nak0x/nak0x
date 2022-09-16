@@ -1,6 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Théo Lesage</h1>
-
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c5fe5b152781991.6323be24cf779.png">
 
 <h3 align="center">Fullstack js junior, I love earning new skills everyday, I'm also a huge creative who love to create all day long !</h3>
