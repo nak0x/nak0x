@@ -16,8 +16,8 @@
 </p>
 
 <p>
-<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgride&show_icons=true&title_color=d99536&text_color=1d1c21&bg_color=f8f6fc&locale=en" alt="hgride" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgride&show_icons=true&title_color=d9952c&text_color=1d1c21&bg_color=f8f6fc&locale=en&layout=compact" alt="hgride" /></p>
+<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgride&show_icons=true&title_color=d99536&text_color=1d1c21&bg_color=f8f6fc&locale=en" alt="theolesage" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgride&show_icons=true&title_color=d9952c&text_color=1d1c21&bg_color=f8f6fc&locale=en&layout=compact" alt="theolesage" /></p>
 </p>
 
 <h3 align="left">Follow me on :</h3>
