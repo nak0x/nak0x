@@ -1,4 +1,4 @@
-<h3>Nak0_x - Developper and OffSec opportunist</h3>
+<h3>Nak0_x - Opportunistic Dev and OffSec</h3>
 
 - 🌱 I’m currently learning **AI, PWA, Cloud Base Work environnement, Self Hosting**
 
