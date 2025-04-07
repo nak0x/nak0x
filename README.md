@@ -1,8 +1,8 @@
 <h3>Nak0_x - Opportunistic Dev and OffSec</h3>
 
-- 🌱 I’m currently learning **NixOS, Python, Self Hosting**
+- 🌱 I’m currently learning **Game dev, Shader Art, Docker**
 
-- 💬 Ask me about **Linux and how to break your filesystem**
+- 💬 Ask me about **Linux, FOSS, Minecraft**
 
 - 📫 How to reach me **nak0_x@proton.me**
 
