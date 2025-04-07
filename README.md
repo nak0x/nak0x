@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Linux, FOSS, Minecraft**
 
-- 📫 How to reach me **nak0_x@proton.me**
+- 📫 How to reach me **[nak0x@proton.me](mailto:nak0x@proton.me)**
 
 - ⚡ Fun fact **I'm at Teklia - check out our foss work**
 <p>
