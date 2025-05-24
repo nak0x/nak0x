@@ -1,5 +1,5 @@
-<img align="center" src="https://github.com/nak0x/nak0x/..." alt="banner" />
-<h3>Nak0_x - Creative developer</h3>
+<img align="center" src="https://raw.githubusercontent.com/nak0x/nak0x/refs/heads/main/content/Banners.png" height="300" alt="banner" />
+<h3><img src="https://raw.githubusercontent.com/nak0x/nak0x/refs/heads/main/content/logo.png" alt="Nak0x"/> Creative developer</h3>
 
 - 🌱 I’m currently learning **Game dev, Shader Art, MR/XR/AR**
 
