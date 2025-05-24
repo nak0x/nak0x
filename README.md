@@ -8,5 +8,5 @@
 
 - ⚡ Fun fact **I'm at Teklia - check out our foss work**
 <p>
-<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nak0x&show_icons=true&title_color=d99536&text_color=1d1c21&locale=en" alt="nak0x" /></p>
+<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nak0x&show_icons=true&title_color=d99536&text_color=fefefe&bg_color=212121&locale=en" alt="nak0x" /></p>
 </p>
